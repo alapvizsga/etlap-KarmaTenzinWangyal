@@ -1,0 +1,18 @@
+body {
+    background-color: #EEFF66;
+    color: #000066;
+    font-style: italic;
+    width: 50%;
+    margin: auto;
+}
+.hetek {
+    display: flex;
+    justify-content: space-evenly;
+}
+hr {
+    background-color: red;
+    border-color: red;
+}
+.egynap {
+    justify-content: space-between;
+}
